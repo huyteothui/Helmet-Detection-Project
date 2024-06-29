@@ -4,4 +4,6 @@
 
 **2. Press the button saying "Open in Colab"**
 
-**3. Run all of the code cells and the program will run**
+**3. Change the runtime type to GPU**
+
+**4. Run all of the code cells and the program will run**
