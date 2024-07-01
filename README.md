@@ -1,8 +1,8 @@
 # Helmet Detection Project
 
-**1. On GitHub, click on the file named: Helmet detection project(fine-tuning).ipynb**
+**1. In this GitHub repository's main branch, click on the file named: Helmet detection project(fine-tuning).ipynb**
 
-**2. Press the button saying "Open in Colab"**
+**2. Click "Open in Colab"**
 
 **3. Change the runtime type to GPU**
 
